@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="output" path="bin/default"/>
+	<classpathentry output="bin/main" kind="src" path="src/main/java">
+		<attributes>
+			<attribute name="gradle_scope" value="main"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry output="bin/test" kind="src" path="src/test/java">
+		<attributes>
+			<attribute name="gradle_scope" value="test"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8/"/>
+	<classpathentry sourcepath="/Users/gsidhwani/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-kms/1.11.390/4d65e802d8e58f63b61852c280e9221cc716be17/aws-java-sdk-kms-1.11.390-sources.jar" kind="lib" path="/Users/gsidhwani/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-kms/1.11.390/b9a6cd1620032b26d304fabcaa6fc1513762c670/aws-java-sdk-kms-1.11.390.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/gsidhwani/.gradle/caches/modules-2/files-2.1/com.newrelic.agent.java/newrelic-agent/6.4.0/e640c171a471a3cf07a6ab7c248640ffc9e10953/newrelic-agent-6.4.0-sources.jar" kind="lib" path="/Users/gsidhwani/.gradle/caches/modules-2/files-2.1/com.newrelic.agent.java/newrelic-agent/6.4.0/716c0521d4baa12d9f2b0a005e1ee06a9c180214/newrelic-agent-6.4.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/gsidhwani/.gradle/caches/modules-2/files-2.1/com.newrelic.agent.java/newrelic-api/6.4.0/3f31215c788ccdbee6caecdfd9aabec579b84019/newrelic-api-6.4.0-sources.jar" kind="lib" path="/Users/gsidhwani/.gradle/caches/modules-2/files-2.1/com.newrelic.agent.java/newrelic-api/6.4.0/d0e5901678a35d963ba3855edbcaf9fc530c4bc0/newrelic-api-6.4.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/gsidhwani/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-core/1.11.390/4b1b4c7eef2c99bdb8624415b2126612fc1104fc/aws-java-sdk-core-1.11.390-sources.jar" kind="lib" path="/Users/gsidhwani/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-core/1.11.390/80ac46e2071c83f6f4ba12b558218ea0364801aa/aws-java-sdk-core-1.11.390.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/gsidhwani/.gradle/caches/modules-2/files-2.1/com.amazonaws/jmespath-java/1.11.390/7c0cc7a779bf5b239097fc9db408e7997e724ad1/jmespath-java-1.11.390-sources.jar" kind="lib" path="/Users/gsidhwani/.gradle/caches/modules-2/files-2.1/com.amazonaws/jmespath-java/1.11.390/8bb45018488e51df14bd8f507c47148bab777507/jmespath-java-1.11.390.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/gsidhwani/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.5/9fd59f6f22326a4241f9524fdfd66a1f34824054/httpclient-4.5.5-sources.jar" kind="lib" path="/Users/gsidhwani/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.5/1603dfd56ebcd583ccdf337b6c3984ac55d89e58/httpclient-4.5.5.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/gsidhwani/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2-sources.jar" kind="lib" path="/Users/gsidhwani/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/gsidhwani/.gradle/caches/modules-2/files-2.1/software.amazon.ion/ion-java/1.0.2/3077203a7e79dd126a480da0491ec60238bbb872/ion-java-1.0.2-sources.jar" kind="lib" path="/Users/gsidhwani/.gradle/caches/modules-2/files-2.1/software.amazon.ion/ion-java/1.0.2/ee9dacea7726e495f8352b81c12c23834ffbc564/ion-java-1.0.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/gsidhwani/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.6.7.1/jackson-databind-2.6.7.1-sources.jar" kind="lib" path="/Users/gsidhwani/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.6.7.1/jackson-databind-2.6.7.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/gsidhwani/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.dataformat/jackson-dataformat-cbor/2.6.7/6d66bfcb6c02f68161190ebc98407ac17ce47bb2/jackson-dataformat-cbor-2.6.7-sources.jar" kind="lib" path="/Users/gsidhwani/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.dataformat/jackson-dataformat-cbor/2.6.7/ba9e74b11135b18248e960df657a2b86ae77a079/jackson-dataformat-cbor-2.6.7.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/gsidhwani/.gradle/caches/modules-2/files-2.1/joda-time/joda-time/2.8.1/bf0996237b66ce00cd3132af179612df02ff9771/joda-time-2.8.1-sources.jar" kind="lib" path="/Users/gsidhwani/.gradle/caches/modules-2/files-2.1/joda-time/joda-time/2.8.1/f5bfc718c95a7b1d3c371bb02a188a4df18361a9/joda-time-2.8.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/gsidhwani/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.9/5808b4637c385d939e901eee3dc5f1121fc73a3b/httpcore-4.4.9-sources.jar" kind="lib" path="/Users/gsidhwani/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.9/a86ce739e5a7175b4b234c290a00a5fdb80957a0/httpcore-4.4.9.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/gsidhwani/.m2/repository/commons-codec/commons-codec/1.10/commons-codec-1.10-sources.jar" kind="lib" path="/Users/gsidhwani/.m2/repository/commons-codec/commons-codec/1.10/commons-codec-1.10.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/gsidhwani/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.6.0/jackson-annotations-2.6.0-sources.jar" kind="lib" path="/Users/gsidhwani/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.6.0/jackson-annotations-2.6.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/gsidhwani/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.6.7/jackson-core-2.6.7-sources.jar" kind="lib" path="/Users/gsidhwani/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.6.7/jackson-core-2.6.7.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/Users/gsidhwani/.gradle/caches/modules-2/files-2.1/org.nanohttpd/nanohttpd/2.3.1/c820129da77c30b2e4ea1cea619d7f589a17bcdd/nanohttpd-2.3.1-sources.jar" kind="lib" path="/Users/gsidhwani/.gradle/caches/modules-2/files-2.1/org.nanohttpd/nanohttpd/2.3.1/a8d54d1ca554a77f377eff6bf9e16ca8383c8f6c/nanohttpd-2.3.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/gsidhwani/Documents/GitHub/Experimental/dev-newrelic-java-aws-kms/newrelic-java-aws-kms/libs/agent-bridge-datastore.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/gsidhwani/Documents/GitHub/Experimental/dev-newrelic-java-aws-kms/newrelic-java-aws-kms/libs/agent-bridge.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/gsidhwani/Documents/GitHub/Experimental/dev-newrelic-java-aws-kms/newrelic-java-aws-kms/libs/newrelic-agent-6.4.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/gsidhwani/Documents/GitHub/Experimental/dev-newrelic-java-aws-kms/newrelic-java-aws-kms/libs/newrelic-weaver-scala-api.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/gsidhwani/Documents/GitHub/Experimental/dev-newrelic-java-aws-kms/newrelic-java-aws-kms/libs/newrelic-weaver-api.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/gsidhwani/Documents/GitHub/Experimental/dev-newrelic-java-aws-kms/newrelic-java-aws-kms/libs/newrelic-api.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/gsidhwani/Documents/GitHub/Experimental/dev-newrelic-java-aws-kms/newrelic-java-aws-kms/test-lib/instrumentation-test.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+</classpath>
